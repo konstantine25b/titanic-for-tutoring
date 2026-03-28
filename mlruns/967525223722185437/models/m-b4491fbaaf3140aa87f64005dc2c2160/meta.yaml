@@ -1,0 +1,10 @@
+artifact_location: /Users/konstantine25b/Desktop/ml tutor/mlruns/967525223722185437/models/m-b4491fbaaf3140aa87f64005dc2c2160/artifacts
+creation_timestamp: 1774693275789
+experiment_id: '967525223722185437'
+last_updated_timestamp: 1774693277763
+model_id: m-b4491fbaaf3140aa87f64005dc2c2160
+model_type: null
+name: model
+source_run_id: daf8466891064586802b23391e538c4a
+status: 2
+status_message: null

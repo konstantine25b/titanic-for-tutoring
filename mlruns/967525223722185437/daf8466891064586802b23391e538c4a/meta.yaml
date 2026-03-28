@@ -1,0 +1,14 @@
+artifact_uri: /Users/konstantine25b/Desktop/ml tutor/mlruns/967525223722185437/daf8466891064586802b23391e538c4a/artifacts
+end_time: 1774693277765
+entry_point_name: ''
+experiment_id: '967525223722185437'
+lifecycle_stage: active
+run_id: daf8466891064586802b23391e538c4a
+run_name: XGB_WOE_lr0.1_d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774693275477
+status: 3
+tags: []
+user_id: konstantine25b
